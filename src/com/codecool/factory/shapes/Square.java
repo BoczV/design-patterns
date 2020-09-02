@@ -1,4 +1,4 @@
-package com.codecool.Factory.shapes;
+package com.codecool.factory.shapes;
 
 public class Square implements Shape {
     @Override

@@ -1,9 +1,9 @@
-package com.codecool.Factory;
+package com.codecool.factory;
 
-import com.codecool.Factory.shapes.Circle;
-import com.codecool.Factory.shapes.Rectangle;
-import com.codecool.Factory.shapes.Shape;
-import com.codecool.Factory.shapes.Square;
+import com.codecool.factory.shapes.Circle;
+import com.codecool.factory.shapes.Rectangle;
+import com.codecool.factory.shapes.Shape;
+import com.codecool.factory.shapes.Square;
 
 public class ShapeFactory {
 

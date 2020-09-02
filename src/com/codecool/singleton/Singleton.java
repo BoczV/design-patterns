@@ -1,4 +1,4 @@
-package com.codecool.Singleton;
+package com.codecool.singleton;
 
 /**
  * (Lazy) Singleton implementation.
